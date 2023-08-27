@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fitzboy1
+- 👀 I’m interested in math, quantum mechanics and 
+- 🌱 I’m currently learning quantum mechanics and complex math
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me: beckett@thejenks.me
