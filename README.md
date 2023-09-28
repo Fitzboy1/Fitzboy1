@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fitzboy1
-- 👀 I’m interested in math, quantum mechanics and 
+- 👀 I’m interested in math, quantum mechanics, and anything with HTML, JS, and Python!
 - 🌱 I’m currently learning quantum mechanics and complex math
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: beckett@thejenks.me
+- 📫 How to reach me:(feel free to email me about anything) beckett@thejenks.me
